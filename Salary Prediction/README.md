@@ -9,4 +9,4 @@ And finally deployed the model on Heroku
 
 https://salary-predictionml.herokuapp.com/
 
-![pic](./output/pic1.jpg)
+![pic](./output/salary.gif)
